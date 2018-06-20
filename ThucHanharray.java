@@ -11,12 +11,8 @@ public class ThucHanharray {
                 isExist= true ;
                 break;
             }
-
         }
         if(!isExist)
             System.out.println("Not found "+input_name+"in the list.");
-
-
-
     }
 }
